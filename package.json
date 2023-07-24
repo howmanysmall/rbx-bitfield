@@ -1,5 +1,5 @@
 {
-  "name": "@rbxts/rbx-bit-field",
+  "name": "@rbxts/rbx-bitfield",
   "version": "1.0.0",
   "description": "",
   "main": "out/init.lua",
